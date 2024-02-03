@@ -1,2 +1,3 @@
 # Netflix-Home-Page-Clone
-![netflix](https://github.com/PoojaTamor/Netflix-Home-Page-Clone/assets/154492630/f1b58371-9288-49b8-8408-d35bcdfda8d9)
+
+![netfliximg](https://github.com/PoojaTamor/Netflix-Home-Page-Clone/assets/154492630/c67d29e0-d416-444c-8614-764d24fc1327)
